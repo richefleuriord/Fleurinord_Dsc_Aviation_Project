@@ -89,7 +89,7 @@ Finally, our analyses converge toward a clear strategic recommendation: to maxim
 4-Implementation plan for recommendations: acquisition, training, safety audit, etc
 # *For More Information*
 For additional info, contact Riche Fleurinord at richefleurinord20@gmail.com
-![Bannière aviation](images/safety1.jpg)
+![Bannière aviation](images/Safety2.jpg)
 
 # *Repository Structure*
 1-.ipynb_checkpoints
