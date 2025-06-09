@@ -111,7 +111,7 @@ For additional info, contact Riche Fleurinord at richefleurinord20@gmail.com
 
 8-Final.ibix
 
-7-Final.md
+7-README.md
 
 
 
