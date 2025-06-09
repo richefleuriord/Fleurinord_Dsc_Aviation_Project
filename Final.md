@@ -18,11 +18,13 @@ Blog post URL (GitHub Repository Link): https://github.com/richefleuriord/Fleuri
 This data science project analyzes aviation accident data from 1962 to 2023 to support strategic decision-making in the aviation sector. Through data cleaning, exploration, and visualization, the goal is to identify low-risk aircraft models and generate actionable insights for business stakeholdersconsidering investment in aviation.
 # *Business Problem*
 ![Bannière aviation](images/safety6.jpg)
+
 To support a strategic investment analysis in the aviation sector, I propose to examine historical trends in aviation accidents in order to identify the most reliable aircraft profiles. This approach aims to help a fictional company allocate its resources wisely by minimizing the risks associated with purchasing and operating commercial and private aircraft.
 
 By analyzing accident data collected by the National Transportation Safety Board from 1962 to 2023, I will highlight aircraft models, common causes of incidents, and high-risk contexts. The goal is to produce actionable recommendations to guide the company’s decisions and enhance safety, while ensuring effective cost management and future operations in this new sector.
 # *1-Data Understanding*
 ![Bannière aviation](images/safety1.jpg)
+
 The dataset used in this project comes from the National Transportation Safety Board (NTSB) and covers aviation events that occurred between 1962 and 2023. It includes both accident and incident investigations, making it a valuable source for analyzing aviation-related risks.
 
 Each event is associated with a unique identifier and contains detailed information such as the date and location of the event, characteristics of the aircraft involved (manufacturer, model, number of engines, engine type), weather conditions, type of flight (commercial, private, etc.), and human consequences (injuries, fatalities).
@@ -59,9 +61,12 @@ The goal is to deliver insightful indicators for decision-making, aimed at effec
 # *Results*
 Most aviation accidents involve personal flights, and light aircraft models like Cessna and Piper dominate the records. While these models appear frequently in accident reports, the severity of accidents involving them is generally lower compared to lesser-known manufacturers. Moreover, amateur-built aircraft, though representing a smaller share of incidents, show noteworthy involvement and warrant special attention.
 ![Bannière aviation](Final_files/Final_121_0.jpg)
+
 The total number of aviation accidents tends to peak around July and August, a period that corresponds to increased flight activity in the United States, notably due to summer vacations and favorable weather conditions. In contrast, a noticeable drop is observed in January, which is typically a quieter period for private or recreational flights.
 ![Bannière aviation](Final_files/Final_144_0.jpg)
-![Bannière aviation](Final_files/Final_137_0.jpg) 
+
+![Bannière aviation](Final_files/Final_137_0.jpg)
+ 
 # *Conclusions*
 As part of this strategic analysis aimed at supporting an investment decision in the aviation sector, we conducted an in-depth study of aviation accident data in the United States over a period of more than 60 years (1962–2023), provided by the National Transportation Safety Board (NTSB). The primary objective was to address a concrete risk management need: to identify the most reliable aircraft profiles in order to intelligently guide the purchase, operation, and deployment choices of a fictional company seeking to enter this market.
 
@@ -85,13 +90,20 @@ Finally, our analyses converge toward a clear strategic recommendation: to maxim
 # *For More Information*
 For additional info, contact Riche Fleurinord at richefleurinord20@gmail.com
 ![Bannière aviation](images/safety1.jpg)
+
 # *Repository Structure*
 1-.ipynb_checkpoints
+
 2-Data
+
 3-Final_files
+
 4-images
+
 5-Final.ipynb
+
 6-Final.Presentation.pdf
+
 7-Final.md
 
 
