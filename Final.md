@@ -23,7 +23,7 @@ To support a strategic investment analysis in the aviation sector, I propose to 
 
 By analyzing accident data collected by the National Transportation Safety Board from 1962 to 2023, I will highlight aircraft models, common causes of incidents, and high-risk contexts. The goal is to produce actionable recommendations to guide the company’s decisions and enhance safety, while ensuring effective cost management and future operations in this new sector.
 # *1-Data Understanding*
-![Bannière aviation](images/safety1.png)
+![Bannière aviation](images/safety1.jpg)
 
 The dataset used in this project comes from the National Transportation Safety Board (NTSB) and covers aviation events that occurred between 1962 and 2023. It includes both accident and incident investigations, making it a valuable source for analyzing aviation-related risks.
 
