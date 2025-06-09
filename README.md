@@ -1,9 +1,13 @@
 # *AKADEMI EDUCATION – First Cohort (2025): Data Science & AI*
 ## **First Project: Data Analysis & Engineering - Phase 1**
 Student name: Riché FLEURINORD
+
 Student pace: self paced
+
 Deadline Submission: June 8, 2025
+
 Instructors' Names: Wedter JEROME & Geovany Batista Polo LAGUERRE
+
 Blog post URL (GitHub Repository Link): https://github.com/richefleuriord/Fleurinord_Dsc_Aviation_Project.git
 
 # *Project Title*
