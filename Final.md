@@ -103,9 +103,9 @@ For additional info, contact Riche Fleurinord at richefleurinord20@gmail.com
 
 4-images
 
-5-Final.ipynb
+5-Final.Presentation.pdf
 
-6-Final.Presentation.pdf
+6-Final.ipynb
 
 7-Final.md
 
