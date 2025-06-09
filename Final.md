@@ -23,7 +23,7 @@ To support a strategic investment analysis in the aviation sector, I propose to 
 
 By analyzing accident data collected by the National Transportation Safety Board from 1962 to 2023, I will highlight aircraft models, common causes of incidents, and high-risk contexts. The goal is to produce actionable recommendations to guide the company’s decisions and enhance safety, while ensuring effective cost management and future operations in this new sector.
 # *1-Data Understanding*
-![Bannière aviation](images/safety1.jpg)
+![Bannière aviation](images/safety1.png)
 
 The dataset used in this project comes from the National Transportation Safety Board (NTSB) and covers aviation events that occurred between 1962 and 2023. It includes both accident and incident investigations, making it a valuable source for analyzing aviation-related risks.
 
@@ -60,12 +60,14 @@ This project relies on descriptive analysis, including the examination of trends
 The goal is to deliver insightful indicators for decision-making, aimed at effectively guiding an investment strategy in the aviation sector.
 # *Results*
 Most aviation accidents involve personal flights, and light aircraft models like Cessna and Piper dominate the records. While these models appear frequently in accident reports, the severity of accidents involving them is generally lower compared to lesser-known manufacturers. Moreover, amateur-built aircraft, though representing a smaller share of incidents, show noteworthy involvement and warrant special attention.
-![Bannière aviation](Final_files/Final_121_0.jpg)
+
+![Bannière aviation](Final_files/Final_121_0.png)
 
 The total number of aviation accidents tends to peak around July and August, a period that corresponds to increased flight activity in the United States, notably due to summer vacations and favorable weather conditions. In contrast, a noticeable drop is observed in January, which is typically a quieter period for private or recreational flights.
-![Bannière aviation](Final_files/Final_144_0.jpg)
 
-![Bannière aviation](Final_files/Final_137_0.jpg)
+![Bannière aviation](Final_files/Final_144_0.png)
+
+![Bannière aviation](Final_files/Final_137_0.png)
  
 # *Conclusions*
 As part of this strategic analysis aimed at supporting an investment decision in the aviation sector, we conducted an in-depth study of aviation accident data in the United States over a period of more than 60 years (1962–2023), provided by the National Transportation Safety Board (NTSB). The primary objective was to address a concrete risk management need: to identify the most reliable aircraft profiles in order to intelligently guide the purchase, operation, and deployment choices of a fictional company seeking to enter this market.
