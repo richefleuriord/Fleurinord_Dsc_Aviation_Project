@@ -39,21 +39,21 @@ This initial step aims to:
 
 4- And gain a global understanding of the data to guide the upcoming exploratory analysis and strategic recommendations.
 # *Data*
-Le jeu de données utilisé dans ce projet provient du National Transportation Safety Board (NTSB) et couvre les accidents aériens survenus aux États-Unis entre 1962 et 2023. Il s'agit de l'une des sources publiques les plus complètes disponibles sur les incidents et accidents d'aviation.
+The dataset used in this project comes from the National Transportation Safety Board (NTSB) and covers aviation accidents that occurred in the United States between 1962 and 2023. It is one of the most comprehensive public sources available on aviation incidents and accidents.
 
-Chaque enregistrement représente un accident ou incident aérien unique, avec des informations sur :
+Each record represents a unique aviation accident or incident, with information on:
 
-La date et le lieu de l’événement
+The date and location of the event
 
-La marque et le modèle de l’aéronef
+The make and model of the aircraft
 
-Le type de vol (ex. : personnel, commercial, instruction)
+The type of flight (e.g., personal, commercial, instructional)
 
-La gravité de l’accident (mortel, non mortel, mineur)
+The severity of the accident (fatal, non-fatal, minor)
 
-Les caractéristiques de l’appareil et du pilote (ex. : aéronef construit par un amateur, type de moteur, etc.)
+Characteristics of the aircraft and the pilot (e.g., amateur-built aircraft, engine type, etc.)
 
-Le jeu de données a été nettoyé et prétraité afin d’éliminer les valeurs manquantes ou non pertinentes. Il constitue la base de l’analyse des risques et de la stratégie d’investissement développées dans le cadre de ce projet.
+The dataset was cleaned and preprocessed to remove missing or irrelevant values. It serves as the foundation for the risk analysis and investment strategy developed as part of this project.
 # *Methods*
 This project relies on descriptive analysis, including the examination of trends over time. This approach provides a clear overview of aviation accident dynamics in the United States, helping to identify the most frequent aircraft models, flight types, and human-related factors involved in incidents.
 
