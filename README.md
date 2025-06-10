@@ -43,15 +43,15 @@ The dataset used in this project comes from the National Transportation Safety B
 
 Each record represents a unique aviation accident or incident, with information on:
 
-The date and location of the event
+1-The date and location of the event
 
-The make and model of the aircraft
+2-The make and model of the aircraft
 
-The type of flight (e.g., personal, commercial, instructional)
+3-The type of flight (e.g., personal, commercial, instructional)
 
-The severity of the accident (fatal, non-fatal, minor)
+4-The severity of the accident (fatal, non-fatal, minor)
 
-Characteristics of the aircraft and the pilot (e.g., amateur-built aircraft, engine type, etc.)
+5-Characteristics of the aircraft and the pilot (e.g., amateur-built aircraft, engine type, etc.)
 
 The dataset was cleaned and preprocessed to remove missing or irrelevant values. It serves as the foundation for the risk analysis and investment strategy developed as part of this project.
 # *Methods*
