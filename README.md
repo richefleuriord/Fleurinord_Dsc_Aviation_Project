@@ -103,15 +103,19 @@ For additional info, contact Riche Fleurinord at richefleurinord20@gmail.com
 
 4-images
 
+5-Final-Jupyter Notebook.pdf
+
 5-Final.Dashboard.pdf
 
 6-Final.Presentation.pdf
 
-7-Final.ipynb
+7-Final.html
 
-8-Final.ibix
+8-Final.ipynb
 
-7-README.md
+9-Final.ibix
+
+10-README.md
 
 
 
